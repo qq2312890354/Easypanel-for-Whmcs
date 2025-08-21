@@ -7,6 +7,5 @@ Easypanel对接Whmcs插件。
 ①将下载的压缩包上传到 你的网站/modules/servers ，解压。
 ②返回到Whmcs后台，添加服务器，Type选择Easypanel，Username和Password可以不填写，Access Hash填写EP安全码，安全码在EP后台可设置。保存。
 ③添加服务器组
-④添加产品，注意"默认绑定到子目录"必须填写，否则开通的主机不能使用，一般就用wwroot就行。
+④添加产品，注意"默认绑定到子目录"必须填写，否则开通的主机不能使用，一般就用wwwroot就行。
 
-联系邮箱：2312890354@qq.com
